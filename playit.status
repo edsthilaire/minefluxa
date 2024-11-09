@@ -1,185 +1,1170 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730748625679 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731171973676 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748628739 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731171976748 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748631789 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731171979810 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748634854 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731171982879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748637906 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731171985946 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748640991 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731171989103 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748644042 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731171992167 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748647095 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731171995241 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748650148 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731171998306 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748653214 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172001369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748656285 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172004533 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748659334 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172007598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748662391 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172010671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748665465 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172013731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748668593 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172016814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748671646 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172019884 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748674699 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172022960 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748677747 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172026032 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748680801 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172029095 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748683850 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172032158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748686907 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172035229 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748689956 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172038297 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748693012 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172041363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748696073 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172044610 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748699138 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172047679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748702198 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172050746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748705257 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172053826 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748708314 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172056889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748711374 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172059957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748714434 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172063019 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748717511 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172066183 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748723596 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172069253 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748726662 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172072332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748730117 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172075402 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748733188 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172078474 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748736242 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172081551 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730748739304 tunnel running, 1 tunnels registered
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172084635 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172087788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172090855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172093911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172096977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172100035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172103104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172106166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172109223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172112285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172115341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172118403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172121617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172124679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172127738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172130796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172133866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172136927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172139987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172143057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172146123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172149312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172152382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172155438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172158543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172161600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172164663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172167726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172170794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172173856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172176912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172179967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172183060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172186123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172189195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172192263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172195336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172198469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172201562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172204631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172207712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172210774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172213836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172216907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172219978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172223047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172229067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172232140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172235203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172238263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172241321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172244381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172247452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172250579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172253641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172256706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172259769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172262834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172265906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172268968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172272028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172275090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172278147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172281208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172284269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172287333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172290407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172293472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172296534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172299602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172302665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172305744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172308813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172311875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172314941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172318001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172321236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172324329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172327386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172330459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172333529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172336601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172339663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172342828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172346111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172349175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172352268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172355372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172358440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172361499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172364573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172367635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172370700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172373771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172376854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172379940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172383014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172386091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172389162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172392221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172395288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172398346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172401406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172404472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172407539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172410614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172413678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172416906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172420170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172423292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172426351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172429414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172432473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172435534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172438596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172441658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172444717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172447797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172450859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172454064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172457141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172460201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172463262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172466332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172469393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172472451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172475510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172478573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172481656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172484745 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172487808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172490886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172493946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172497109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172500213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172503282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172506349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172509416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172512479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172515545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172518627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172521685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172524763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172527839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172530901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172533967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172537275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172540335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172543398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172546456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172549520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172552618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172555703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172558757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172561815 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172564888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172567950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172571023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731172574086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+update-better.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+facilities-glasgow.gl.at.ply.gg:3151 => 127.0.0.1:19132 (minecraft-bedrock)
